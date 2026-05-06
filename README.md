@@ -14,3 +14,12 @@ https://qwen2transl-g7qqtaxq.manus.space
 ```bash
 pip install -r requirements.txt
 python app.py
+
+---
+
+## 🔼 6. Sube TODO
+
+```bash id="6"
+git add .
+git commit -m "estructura profesional app"
+git push
