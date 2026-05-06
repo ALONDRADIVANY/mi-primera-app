@@ -1,8 +1,16 @@
-# 🚀 Mi primera app
+# 🌐 Traductor AI
 
-Hola, soy Alondra.
+App web de traducción creada por Alondra 🚀
 
-Esta es mi primera app publicada con GitHub Pages.
-
-🔗 Ver app:
+## 🔗 Ver app en vivo
 https://qwen2transl-g7qqtaxq.manus.space
+
+## 🛠️ Tecnologías
+- Python
+- AI model
+- Web deployment
+
+## ▶️ Cómo correr local
+```bash
+pip install -r requirements.txt
+python app.py
